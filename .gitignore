@@ -5,3 +5,4 @@ compile_commands.json
 *.o
 *.out
 .DS_Store
+*.tar.gz
